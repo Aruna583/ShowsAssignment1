@@ -1,0 +1,23 @@
+.upcomming-title{
+    color: black;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.upcommingContainer{
+    display: flex;
+    flex-direction: row;
+    align-content: space-around;
+    width: fit-content;
+    width: 100%;
+    color: #ffff;
+    padding: auto;
+}
+
+.upcommingList{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+}

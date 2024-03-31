@@ -1,3 +1,27 @@
+
+# Project Name
+Project Name:  Shows
+
+# Description
+
+This Project explain about the recommended and upcomming Event in the shows
+
+# Features
+Header component is added
+UpComming component is added
+To fetch the data from api useCustom hook added
+Helper functions added to convert the date string to the month, year, day
+
+# Technologies
+
+For icons React icons package is added
+To store the data from api Redux package is added
+Git is added for version control
+netlify is used for hosting
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

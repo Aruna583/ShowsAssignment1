@@ -1,5 +1,12 @@
 .App {
   text-align: center;
+  font-family: 'Inter', sans-serif;
+  background-color: #ffffff;
+  color: #1E2022;
+}
+
+.secondaryContainer{
+  position: absolute;
 }
 
 .App-logo {
